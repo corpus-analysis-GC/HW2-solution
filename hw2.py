@@ -17,7 +17,6 @@ def read_cd(path: str) -> Iterable[List[str]]:
             yield line.rstrip().split("\\")
     
 
-
 def main() -> None:
     target_words = set()  # Just in case there are duplicates.
     efw = read_cd("data/efw.cd")
