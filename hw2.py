@@ -28,7 +28,7 @@ def main() -> None:
         if " " in word:
             continue
         freq = int(frow[3])
-        if freq < 179:
+        if freq < 1790:
             continue
         morph = mrow[4]
         if morph == "c":
