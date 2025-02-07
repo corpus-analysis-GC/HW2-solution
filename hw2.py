@@ -19,6 +19,8 @@ def main() -> None:
     epw = read_cd("data/epw.cd")
     for frow, mrow, prow in zip(efw, emw, epw):
         word = frow[1]
+        if " " in word:
+            continue
         freq = int(frow[3])
         if freq >= 1790:
             continue

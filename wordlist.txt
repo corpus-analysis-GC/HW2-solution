@@ -3,18 +3,10 @@ Scandinavian
 Scorpio
 Scot
 Scotch
-Scotch broth
-Scotch egg
-Scotch mist
-Scotch tape
-Scotch whisky
-Scotch woodcock
 Scotchman
 Scotchwoman
-Scotland Yard
 Scotsman
 Scotswoman
-Scottish terrier
 Scrabble
 scab
 scabbard
@@ -59,10 +51,6 @@ scarf
 scarf-pin
 scarlatina
 scarlet
-scarlet fever
-scarlet pimpernel
-scarlet runner
-scarlet woman
 scarp
 scatology
 scatter
@@ -81,8 +69,6 @@ schizophrenic
 scholar
 scholarship
 scholasticism
-school of thought
-school report
 school-board
 school-book
 school-days
@@ -112,7 +98,6 @@ scoopful
 scooter
 scope
 scorch
-scorched earth
 scorcher
 score
 scoreboard
@@ -122,7 +107,6 @@ scorekeeper
 scorer
 scorn
 scorpion
-scotch tape
 scoundrel
 scour
 scourer
@@ -137,7 +121,6 @@ scrag-end
 scramble
 scrambler
 scrap
-scrap paper
 scrap-heap
 scrap-iron
 scrapbook
@@ -147,7 +130,6 @@ scrapings
 scrappiness
 scraps
 scratch
-scratch paper
 scratch-race
 scratchiness
 scratchpad
@@ -161,7 +143,6 @@ screen
 screening
 screenplay
 screw
-screw top
 screwball
 screwdriver
 scribble
@@ -183,7 +164,6 @@ scrooge
 scrotum
 scrounger
 scrub
-scrub brush
 scrubber
 scrubbing-brush
 scruff
@@ -227,10 +207,8 @@ skater
 skating
 skating-rink
 skeet
-skeet shooting
 skein
 skeleton
-skeleton key
 skep
 sketch
 sketch-block
@@ -243,8 +221,6 @@ skewbald
 skewer
 skewness
 ski
-ski pole
-ski stick
 ski-jump
 ski-lift
 ski-plane
@@ -259,12 +235,9 @@ skiffle-group
 skill
 skillet
 skilly
-skim milk
 skimmed-milk
 skimmer
 skin
-skin flick
-skin game
 skin-diving
 skin-graft
 skinflint
@@ -289,7 +262,6 @@ skua
 skulduggery
 skulker
 skull
-skull and crossbones
 skullcap
 skunk
 sky
@@ -307,19 +279,13 @@ skywriting
 squab
 squabble
 squad
-squad car
 squadron
-squadron leader
 squall
 squaller
 squalor
 squanderer
 squandermania
 square
-square bracket
-square dance
-square knot
-square root
 square-bashing
 square-toes
 squareness
